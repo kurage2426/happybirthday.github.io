@@ -1,4 +1,4 @@
-const audio = new Audio('../audio/happy-birthday.mp3');
+const audio = new Audio('happybirthday.mp3');
 const cake = document.getElementById('cake');
 const title = document.querySelector('h1');
 
