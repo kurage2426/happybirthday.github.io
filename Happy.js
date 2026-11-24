@@ -55,5 +55,5 @@ cake.addEventListener('click', () => {
         clearInterval(confettiInterval)
         clearInterval(bgInterval);
         isPlaying = false;
-    }, 28000);
+    }, 45000);
 });
